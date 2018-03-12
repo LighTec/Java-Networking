@@ -1,6 +1,6 @@
 # Java-Networking
-Testing and learning sockets and data transfer over networks using Java.
+Testing and learning sockets and data transfer over networks using Java, using the textbooks:
 
-Using the textbooks:\n
-Java Server Side Programming The Conceptual Foundation by Mukesh Prasad\n
+Java Server Side Programming The Conceptual Foundation by Mukesh Prasad
+
 Learning Network Programming with Java by Richard M Reese
