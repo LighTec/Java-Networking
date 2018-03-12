@@ -1,0 +1,4 @@
+# Ingores the book folder, due to the textbooks still being under copyright
+# (As far as I know anyways)
+
+books/
